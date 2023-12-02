@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Atharvojha
+- 👋 Hi, I’m Atharv Ojha.
 - 👀 I’m interested in making impactful projects and implementing complex algorithms.
-- 🌱 I’m currently learning non supervised learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently pursing CSE from VIT Vellore.
+- 📫 Reach me at atharvoza@gmail.com
 
 <!---
 Atharvojha/Atharvojha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
